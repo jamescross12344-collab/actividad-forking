@@ -3,6 +3,6 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 Repositorio principal para práctica de Forking Workflow.
 
 Datos del estudiante:
-Nombre:
-Carrera:
-Semestre:
+Nombre: Univ. Jaime Pablo Cruz Aguirre
+Carrera: Ingeniería de Sistemas 
+Semestre: Cuarto

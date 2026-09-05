@@ -6,3 +6,4 @@ Datos del estudiante:
 Nombre: Univ. Jaime Pablo Cruz Aguirre
 Carrera: Ingeniería de Sistemas 
 Semestre: Cuarto
+Mención: DIR. Y GES. EMPRESARIAL 
